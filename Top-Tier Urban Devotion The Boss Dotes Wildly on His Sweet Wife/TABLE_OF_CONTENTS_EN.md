@@ -1,0 +1,49 @@
+# Table of Contents — Top-Tier Urban Devotion: The Boss Dotes Wildly on His Sweet Wife
+
+- Chapter 1 — Edge in the Rain
+- Chapter 2 — A Promise in the Palm of His Hand
+- Chapter 3 — Devotion in Silence
+- Chapter 4 — New Life From the Cracks
+- Chapter 5 — The Gathering Storm
+- Chapter 6 — The Light of Milan
+- Chapter 7 — The Night of the Champion
+- Chapter 8 — The Journey Home
+- Chapter 9 — The First Crack Blooms
+- Chapter 10 — His Private Domain Holds Traces of Her
+- Chapter 11 — Her First Studio Was His Doing
+- Chapter 12 — Su Yurou's Last Gamble: Digging Her Own Grave
+- Chapter 13 — The Night Wind Was Gentle, and She Said, "I think I'm starting to like you"
+- Chapter 14 — Facing Down Her Adoptive Father: The Truth, Live for the Whole Internet
+- Chapter 15 — Going Public? No—Being Made Public
+- Chapter 16 — Her Moment in the Spotlight, Witnessed by Him from Start to Finish
+- Chapter 17 — Undercurrents at the Biennale, and She Meets Them with Composure
+- Chapter 18 — Home Again, the Storm Not Yet Over
+- Chapter 19 — The Undercurrent Stirs Again, and She Meets It Head-On
+- Chapter 20 — The Brand's Arrogance, Her Quiet Composure
+- Chapter 21 — Cartier's Olive Branch, Gu Changfeng's Probe
+- Chapter 22 — On Both Sides of the Glass Door, Old Scores Settled Anew
+- Chapter 23 — Before the First Snow, Before the Storm
+- Chapter 24 — Light Traces Bloom, and an Old Acquaintance Returns
+- Chapter 25 — Supply-Chain Warfare: Her Thunderous Counterstrike
+- Chapter 26 — Yurou's Desperate Gamble, Lu Shiyan's Thunderbolt Tactics
+- Chapter 27 — Roots and Undercurrents: On Her Home Turf, Her Word Is Law
+- Chapter 28 — Eyes in the Shadows, Light in the Open
+- Chapter 29 — Snow Falls in Silence, the Undercurrent Runs On
+- Chapter 30 — The Light of Daybreak
+- Chapter 31 — Before the Journey, the Dust Settles
+- Chapter 32 — Paris, the Wall of Love, and Light
+- Chapter 33 — Shadows of the Louvre, Light on the Seine
+- Chapter 34 — The Journey Home, the Journey Begins
+- Chapter 35 — Countdown to the Joint Exhibition, and the Storm Returns
+- Chapter 36 — Roots and Light, the Day They Bloom
+- Chapter 37 — The Aurora, and His Promise
+- Chapter 38 — The Ring and the Faraway
+- Chapter 39 — The Light of Everyday Life
+- Chapter 40 — Light and Everyday Life
+- Chapter 41 — First Light (Side Story)
+- Chapter 42 — Beyond the Light (Side Story)
+- Chapter 43 — His Point of View (Side Story)
+- Chapter 44 — Light and Xi (Side Story)
+- Chapter 45 — The Direction of Light (Side Story)
+- Chapter 46 — Light Years Away (Side Story)
+- Chapter 47 — Light Without End

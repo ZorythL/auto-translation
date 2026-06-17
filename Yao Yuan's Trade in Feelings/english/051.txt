@@ -1,0 +1,83 @@
+Chapter 51 — A Chance Meeting in Phuket
+https://www.xbanxia.cc/books/417648/72640298.html
+
+A Chance Meeting in Phuket
+On the afternoon of the third day, the team had a Thai massage on the schedule. Yao Yuan had booked out the entire hotel spa for the whole afternoon.
+After her massage, as she walked toward the lounge in her robe, a vaguely familiar voice came from behind her.
+"Yao Yuan?"
+She turned. It was Zhao Yiming.
+He was a shade darker than the last time she'd seen him at the forum, dressed in a linen shirt and khakis, his hair loose and casual—he looked like he was on holiday. When he saw her, his eyes lit up and he came straight over.
+"So it really is you." Zhao Yiming smiled, frank and direct. "I thought you looked familiar just now—someone with that kind of presence is hard to forget."
+"Boss Zhao." Yao Yuan smiled too. "What a coincidence."
+"Hiding out for some peace and quiet." Zhao Yiming shrugged. "Year-end is wall-to-wall meetings—they give me a headache. I came out here to sit in the sun and, while I'm at it, think over the next round of algorithm tuning."
+The two of them sat down on a soft couch in the lounge. A waiter brought over chilled young coconuts. Beyond the window lay a dense tropical garden, with the distant sound of waves faintly carrying over.
+"The founder of Western World Technology still has to run the algorithms himself?" Yao Yuan stuck in a straw.
+"The more you're the founder, the less you can afford to drift away from the code and the models." Zhao Yiming tilted his head to look at her, a focused curiosity in his eyes. "Especially with the project we're collaborating on right now—the 'Pretty Big One Emotional AI.' Polishing the underlying logic is something I have to do hands-on."
+Yao Yuan raised an eyebrow. She knew Zhao Yiming's background: a physics undergrad, a computer science PhD, a postdoc spent in a Silicon Valley biology lab working at the intersection of neuroscience and computational modeling. At thirty, he'd come home with three top-journal papers and one crude algorithm, and used three million in angel funding to hammer out the code for the first generation of intelligent interaction chips. Now the company he'd founded, Western World Technology, was already a leader in brain-computer interfaces and affective computing.
+"So even on vacation you're still thinking about our model?" she asked.
+"More precisely, I'm thinking about people." Zhao Yiming's gaze turned serious. "The biggest challenge in emotional AI isn't the algorithm—it's modeling the sheer complexity of human nature. Emotions warp judgment, memory comes with its own beauty filter, decisions get swayed by hormones—and yet human 'intelligence' just happens to run on this buggy hardware. What our model needs to do isn't to eliminate these bugs, but to understand that they're part of the function itself."
+The words tugged at something in Yao Yuan. She thought of those rationally calculated "emotional algorithms" in her own livestream room. In a sense, wasn't she also trying to use logic to discipline the "irrationality" in human nature?
+"So what's your conclusion?" she asked.
+"No conclusion yet." Zhao Yiming smiled, showing white teeth. "The tragedy of a scientist is that the more you know, the more you realize how little you know. But then again—"
+He paused at her words, looked at Yao Yuan, and suddenly let out a very faint laugh. On his usually placid face, that smile looked a little strange, as if he'd just caught some crucial data point. "Interesting. Turning emotion itself into a tool, into parameters. That actually lines up perfectly with one of my latest cross-disciplinary ideas… We're trying to use multimodal data to model the emotional decision pathways of personality types like yours under extreme circumstances. Your case archive is an extremely valuable training sample."
+"My data doesn't come cheap." Yao Yuan was half joking, but her eyes were serious.
+"A worthwhile investment." Zhao Yiming looked at her and took off his sunglasses. Those eyes that always coolly analyzed the world looked especially deep against the blazing backdrop of sea and sky. "Because clean data can never simulate the chaos of the real world. Your data holds the most vivid—and most brutal—samples of human nature. And we both know," he leaned in slightly, his voice dropping a little, carrying an almost scholarly, focused fervor, "only by understanding both the most extreme order (your algorithm) and the most authentic chaos (the samples of human nature) can you possibly create something truly 'intelligent.' This excites me more than any paper."
+This wasn't flirtation, or even ordinary flattery. It was a top-tier scientist offering the highest-grade admiration and invitation to explore to another complex system. It rested on months of professional collaboration, several intellectual sparring matches, and a deep mutual understanding of each other's fields.
+Yao Yuan met his gaze without flinching. She could feel something familiar igniting in her chest, the kind of excitement that belonged to games and challenges—but here it was tinted by the sun, the sea breeze, and the pure inquisitiveness in his eyes, a different temperature than the one in a conference room.
+"So," she said slowly, the corner of her lips curving into an equally challenging arc, "Boss Zhao, are you treating me as your next most important research subject?"
+"No." Zhao Yiming shook his head, his answer unusually clear. "A subject is cold. You're hot, complex, a variable full of uncertainty. Studying you might make my model collapse all over again—but it might also…" He paused, searching for the right word. "Make it reach a genuine 'epiphany.' The risk is extremely high, but the payoff is incalculable. And I'm a scientist who likes high-payoff experiments."
+The two of them fell into easy conversation. From AI ethics to power dynamics in intimate relationships, from the frontiers of brain science to the survival strategies of contemporary women. Yao Yuan found that talking with Zhao Yiming was a pleasure—he was smart without showing off, opinionated without being stubborn, and, more importantly, he understood her insights rooted in business and human nature, and could respond to them precisely from the angles of science and technology.
+It was an intellectual resonance on the same frequency, something she hadn't felt in a long time.
+When the massage was over, Yao Yuan invited Zhao Yiming to dinner that evening—to thank him for "bailing her out" at the forum last time. Zhao Yiming readily agreed.
+Dinner was booked at another well-known seafood restaurant in the hotel. By the time Yao Yuan arrived with her family, Zhao Yiming was already there, having changed into a light blue shirt, looking fresh and refined.
+"Mom, Dad, Yifan—this is Boss Zhao, Zhao Yiming, founder of Western World Technology and a brain science expert. We're collaborating on an emotional AI project." Yao Yuan made the introductions. "Boss Zhao, this is my mother, my Uncle Zhou, and my younger brother Zhou Yifan, who's studying medicine in Shanghai—his research also touches on neuroscience."
+Zhao Yiming rose politely to greet them. Zhou Lufei and Zhang Fengxia sized him up, courteous but with an elder's caution. Zhou Yifan's eyes, however, lit up.
+"Boss Zhao," Zhou Yifan couldn't help saying once they were seated, "I read your team's paper in that sub-journal of Cell, the one on the dynamic encoding of the prefrontal cortex–amygdala circuit in risk-based decision-making. The optogenetics combined with in vivo electrophysiology recording method you used was really illuminating for our understanding of the neural mechanisms behind anxiety disorders."
+Zhao Yiming looked a little surprised, then smiled. "That was work from two years ago. So what's your research direction?"
+"Early biomarkers for neurodegenerative diseases—mainly focused on the specific exosome carriers of tau protein and beta-amyloid in cerebrospinal fluid." Zhou Yifan's tone was earnest. "Lately we've been building a CSF exosome proteomic map of early-stage Alzheimer's patients, trying to find specific indicators that are more sensitive than the existing markers."
+Zhao Yiming leaned forward, his gaze intent. "What separation method are you using? Differential centrifugation plus size-exclusion chromatography?"
+"Right, but we added immunomagnetic bead sorting after the size-exclusion chromatography—using anti-L1CAM antibodies to enrich neuron-derived exosomes and cut down the background noise." Zhou Yifan was speaking faster now. "But the recovery rate is only around thirty percent—we're still optimizing it."
+"You could try microfluidic chips combined with acoustic separation. Our lab developed a new platform last year that can get the recovery rate for neuronal exosomes up to sixty-five percent, with higher purity too." Zhao Yiming took out his phone. "I'll have my assistant send you the preprint. By the way, what mass spectrometry platform are you using for proteomics? An Orbitrap Fusion Lumos?"
+"We're using an Exploris 480, but we're in talks to collaborate with a lab over at Fudan—we want to use their newly installed timsTOF Pro for 4D proteomics, to improve coverage depth."
+The two of them dug deeper and deeper, technical jargon and English abbreviations flying back and forth. Zhou Lufei and Zhang Fengxia were completely lost, but seeing their son so rarely animated and glowing, they listened with smiles.
+Yao Yuan ordered the food while she watched. Zhao Yiming was patient in conversation, with none of the lofty airs of an expert; on the contrary, his eyes would light up at a particular point and he'd press for details. That was the state only someone who genuinely loved research could be in.
+"So you're already trying to use multi-omics data to predict the risk of mild cognitive impairment converting to Alzheimer's?" Zhao Yiming said thoughtfully after hearing out Zhou Yifan's account. "Interesting… We've recently been building a multimodal database of cognitive baselines for healthy populations. Maybe we could collaborate. A model is only robust if the sample size is big enough."
+"Really?" Zhou Yifan's eyes lit up even more. "We've been worried our clinical sample size isn't big enough…"
+Over the course of one dinner, the two scientists talked away happily, while the three onlookers ate to their satisfaction. The dishes Yao Yuan had ordered were authentic: the tom yum soup sour and spicy, the curry crab rich, the steamed lemon fish fresh and light. Zhao Yiming couldn't stop praising them.
+Over dessert, Zhou Lufei and Zhang Fengxia said they wanted to take a stroll along the beach and left first. Zhou Yifan looked hesitantly at Yao Yuan.
+"Stay and talk with Boss Zhao a while longer?" Yao Yuan could see the reluctance in her brother's eyes—a chance to talk in depth with an expert of this caliber was rare.
+"Is that all right, Boss Zhao?" Zhou Yifan was a little embarrassed.
+"Of course." Zhao Yiming smiled. "As it happens, I'd like to pick your brain on some of the practical details of ethics review for clinical samples."
+The three of them moved to the open-air tea terrace outside the restaurant. The night had grown deep, the sea breeze gentle, and in the distance a band was playing jazz.
+Zhou Yifan and Zhao Yiming talked for another half hour, until Yao Yuan lightly touched her brother's arm. "It's getting late—let Boss Zhao rest. We've got the boat trip tomorrow."
+Only then did Zhou Yifan stop, exchanging contact details with Zhao Yiming. Zhao Yiming promised to invite him to tour the lab once they were back in Beijing.
+On the way back to the villa, Zhou Yifan was unusually talkative. "Sis, Boss Zhao is incredible. He led a project independently at MIT at twenty, and now Western World's brain-computer interface technology is in the global top tier. But he doesn't put on any airs at all—his mind is so open…"
+Yao Yuan listened, the corners of her lips curving slightly. "Enjoy talking with him?"
+"Yeah!" Zhou Yifan nodded, then paused and tilted his head to look at her. "Is he… is he chasing you?"
+Yao Yuan's steps didn't slow. "Why do you ask?"
+"The way he looks at you." Zhou Yifan said it with a medical student's powers of observation. "And, well—tonight, even though he mostly talked shop with me, his attention was on you the whole time. The moment you moved, his eyes would follow."
+Yao Yuan smiled, neither confirming nor denying it.
+Back at the villa, Zhang Fengxia and Zhou Lufei were already in the living room. Seeing them return, Zhang Fengxia turned off the TV and asked, with feigned casualness, "That Boss Zhao—he seems quite learned."
+"Mm, very impressive." Zhou Yifan was still riding his excitement.
+"It's just…" Zhang Fengxia weighed her words. "He looks pretty young, too."
+"Mom," Yao Yuan laughed helplessly, "if you've got something to say, just say it."
+Zhang Fengxia coughed lightly. "I mean, he seems like a good sort—capable, without that showy air rich men tend to have. How did the two of you meet?"
+Yao Yuan briefly recounted the chance meeting at the forum and the project collaboration. Zhou Lufei listened off to the side and finally said, "Intellectuals are good—clean. Better than those slippery old hands in the business world."
+There was an edge of meaning to that. Yao Yuan just smiled and let it pass.
+After washing up, she returned to her room and stood on the balcony, gazing at the pitch-black sea in the distance. Her phone buzzed again—still Yu Hao: "In Thailand? Saw the photos you posted. Have fun."
+She opened her social feed and only then remembered she'd posted a few group shots of the team at the beach that afternoon.
+She stared at the message for a few seconds, didn't reply, and locked the screen.
+The night wind blew past, carrying faint music from far away. She thought of the conversation with Zhao Yiming that evening, of his eyes glowing when he talked about his research, of how he'd said "chaos is the truest sample of human nature."
+And she thought of the gaze he'd occasionally let fall on her—focused, curious, carrying a pure appreciation.
+Maybe Zhou Yifan was right.
+Maybe it was time to allow a little "chaos" into her overly ordered life.
+Only this time, she needed to think it through—what was it she actually wanted?
+Another relationship built on value exchange?
+Or… something closer to "the human" itself?
+The waves rolled on, with no answer. Only the moonlight spilling quietly over the sea, like a shimmering road laid open toward the unknown.
+Yao Yuan turned and went back into her room, closing the door.
+She knew this Spring Festival was destined to be a little different. Not only because of the foreign sun and beaches, but because some new possibility was quietly sprouting in the warm sea breeze. And she needed to think it through—what kind of chaos she was ready to welcome, and what price she was willing to pay for it.
+The night had grown deep, and the resort's clamor gradually settled. Yao Yuan lay in bed, but felt not the slightest bit sleepy.
+Her phone screen lit up in the dark—another message from Yu Hao: "Phuket must be nice and warm right now. I remember you always hated the cold."
+She stared at that line, fingertip hovering above the screen. Three seconds later, she pressed the screen dark.
+Some roads, once walked, don't need to be retraced. Some people, once missed, are simply missed.
